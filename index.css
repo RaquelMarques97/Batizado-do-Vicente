@@ -1,0 +1,37 @@
+body {
+  width: 90vw;
+  background-color: rgb(140, 212, 240);
+  background: url("37308966050bc98be882da4b98965551.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+
+h1,
+h2 {
+  color: rgb(15, 123, 131);
+}
+
+
+
+
+@media screen and (max-width: 600px) {
+  .photo1 {
+    width: 50vw !important;
+  }
+
+  .photo2 {
+    width: 50vw !important;
+  }
+
+  .photo3 {
+    width: 50vw !important;
+  }
+
+  .photo4 {
+    width: 50vw !important;
+  }
+}
